@@ -10,11 +10,11 @@
     * [100% Accuracy](https://github.com/alik604/cyber-security/blob/master/anomalyDetection/KDD%20cup%20'99/kddcup_99_100accAchieved.ipynb)
     * [Blog post](https://medium.com/@alik604/predicting-the-nsl-kdd-data-set-with-98-accuracy-240a7a245c9d)
   * NSL-KDD (corrected dataset based off KDD cup ‘99’)
-    * [98% Accuracy](https://github.com/alik604/cyber-security/blob/master/anomalyDetection/NSL_KDD/NSL_KDD.ipynb)
-    * [Blog post* Affects of Dimensionality Reduction](https://github.com/alik604/dimensionality-reduction-overview)
-      [Blog post](https://medium.com/@alik604/dimensionality-reduction-effects-on-model-accuracy-c021f4f33a61)
+    * [98% Accuracy](https://github.com/alik604/cyber-security/blob/master/Intrusion-Detection/NSL_KDD/NSL_KDD.ipynb)
+    * [Effects of Dimensionality Reduction](https://github.com/alik604/dimensionality-reduction-overview) 
+    * [Blog post](https://medium.com/@alik604/dimensionality-reduction-effects-on-model-accuracy-c021f4f33a61)
   * UNSW_NB15
-    * [92% Accuracy](https://github.com/alik604/cyber-security/blob/master/anomalyDetection/UNSW_NB15.ipynb)
+    * [92% Accuracy](https://github.com/alik604/cyber-security/blob/master/Intrusion-Detection/UNSW_NB15.ipynb)
       * 91% Accuracy with a **feedforward neural network**, 92% with **Ensemble** (non neural network techniques 'voting')
       * [attempt at autoencoder of anomaly detection](https://colab.research.google.com/drive/15L29IKGf-7JEvcSIC4FeOEcps5_Jn8hD)
 * Anomaly Detection
